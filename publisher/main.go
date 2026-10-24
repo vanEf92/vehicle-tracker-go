@@ -39,8 +39,8 @@ func main() {
 	// lon := 106.80062
 
 	// Data mock lokasi ancol untuk kategori sangat dekat dengan geofence target
-	lat := -6.24457
-	lon := 106.80062
+	lat := -6.129121
+	lon := 106.833350
 	
 
 	log.Printf("Starting mock publisher for vehicle %s every 2 seconds...", vehicleID)
